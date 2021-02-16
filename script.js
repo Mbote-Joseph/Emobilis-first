@@ -17,7 +17,7 @@ let students = [
   {
     name: "Manu",
     regNo: "sct211-0020/2018",
-    course: "Computer Science",
+    course: "Civil Engineeering",
     school: "KU",
   },
 ];
